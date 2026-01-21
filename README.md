@@ -15,7 +15,9 @@ Program umożliwia wykonywanie podstawowych operacji na bazie danych:
 
 - dodawanie książek (tytuł, autor, rok wydania),
 - usuwanie książek po tytule (z informacją, gdy książka nie istnieje),
-- wyszukiwanie książek po frag
+- wyszukiwanie książek po fragmencie tytułu lub autora,
+- wyświetlanie listy wszystkich zapisanych książek,
+- trwałe zapisywanie danych w pliku bazy danych.
 
 ---
 ## Wykorzystane technologie
