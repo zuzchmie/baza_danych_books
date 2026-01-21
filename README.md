@@ -93,4 +93,3 @@ Plik `books.db` jest lokalnym plikiem bazy danych SQLite.
 Przechowuje wszystkie rekordy dodane przez użytkownika w tabeli `books`.
 
 ---
-# baza_danych_books
